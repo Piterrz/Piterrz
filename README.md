@@ -1,6 +1,6 @@
 ## Olá, eu sou o Caio!!
 
-- 🔭 Atuando como Dev na Pew's Cavern
+- 🔭 Atualmente procurando um Estágio!!
 - 🌱 Estudando Engenharia de Software
 - 😄 Pronouns: Ele/dele
 
