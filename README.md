@@ -1,7 +1,7 @@
 ## Hello World, eu sou o Caio!!
 
 - 🔭 Atualmente procurando um Estágio!!
-- 🌱 Estudando Engenharia de Software
+- 🌱 Estudando Engenharia de Software / Dev Front-End Junior
 - 😄 Pronouns: Ele/dele
 
 <div style="display: inline_block"><br>
