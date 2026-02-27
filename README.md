@@ -1,4 +1,4 @@
-## Olá, eu sou o Caio!!
+## Hello World, eu sou o Caio!!
 
 - 🔭 Atualmente procurando um Estágio!!
 - 🌱 Estudando Engenharia de Software
